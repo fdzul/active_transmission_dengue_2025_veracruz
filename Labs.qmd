@@ -30,13 +30,13 @@ Que el personal de vectores desarrolle las competencias específicas para realiz
 
 ### Actividad 1
 
-1.  Bajar la carpeta [geocodificación_dengue_sinave_edo11](https://github.com/fdzul/geocodificacion_dengue_sinave_edo11) de GitHub.
+1.  Bajar la carpeta [geocodificación_dengue_sinave_edo30](https://github.com/fdzul/geocodificacion_dengue_sinave_edo30) de GitHub.
 
 2.  Geocodificar las bases de datos históricas del [SINAVE](https://www.sinave.gob.mx).
 
 ### Actividad 2
 
-1.  Bajar la carpeta [Focos de Transmisión Activa de las arbovirosis](https://github.com/fdzul/focos_transmision_activa_dengue_2025_guanajuato) de GitHub.
+1.  Bajar la carpeta [Focos de Transmisión Activa de las arbovirosis](https://github.com/fdzul/focos_transmision_activa_dengue_2025_veracruz) de GitHub.
 
 2.  Realizar el análisis de los focos de transmisión activa en la o las localidades prioritarias del estado.
 
@@ -56,7 +56,7 @@ Que el personal de vectores desarrolle las competencias específicas para realiz
 
 ### Actividad 2
 
-1.  Bajar la carpeta [eggs_hotspots_11_guanajuato](https://github.com/fdzul/eggs_hotspots_11_guanajuato) de GitHub.
+1.  Bajar la carpeta [eggs_hotspots_30_veracruz]() de GitHub.
 
 2.  Realizar la predicción del número de huevos en la o las localidades prioritarias del estado de procedencia del personal que asiste al curso.
 
