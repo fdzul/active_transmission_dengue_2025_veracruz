@@ -61,5 +61,3 @@ Que el personal de vectores desarrolle las competencias específicas para realiz
 2.  Realizar la predicción del número de huevos en la o las localidades prioritarias del estado de procedencia del personal que asiste al curso.
 
 3.  Visualizar los mapas predictivos.
-
-
